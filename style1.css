@@ -1,0 +1,49 @@
+
+#container {
+	background-color:#FFFAFA; 
+	width: 1000px;
+	height:1200px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Calibri;
+}
+
+#header {
+	text-align: center;
+	padding: 10px;
+}
+
+body {
+	background-image: url('circuit.jpg');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	
+}
+#personal {
+	padding: 10px;
+}
+
+#main {
+
+}
+
+#achievements{
+	padding:10px;
+}
+
+#education {
+	padding:10px;
+}
+
+#employment {
+	padding:10px;
+}
+
+h2 {
+	background-color: #00688B;
+	color: white;
+	font-family: Trajan;
+	
+}
+
